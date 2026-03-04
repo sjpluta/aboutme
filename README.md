@@ -1,4 +1,5 @@
 # aboutme
+"Hey, I’m Trixi (she/her). 30, lethal, and currently building my digital empire directly from a mid-tier Android. I’m a Lead Architect in training, merging industrial-grade resilience with Gemini-assisted logic. Check the bio for my best work on NeoCities—walls are turning to dust. 🕊️🔥
 "Moving forward until the walls are dust." 🕊️🔥
 
 01. THE BLUEPRINT (Identity)
